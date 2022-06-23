@@ -1,4 +1,5 @@
 {
+  "homepage": "https://prefect001.github.io/WorkAnyWhere.github.io/",
   "name": "work-any-where",
   "version": "0.0.0",
   "scripts": {
@@ -30,6 +31,7 @@
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
+    "angular-cli-ghpages": "^1.0.0",
     "codelyzer": "^6.0.0",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
